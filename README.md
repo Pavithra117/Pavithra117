@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Pavithra K 👋
 
-<!--
-**Pavithra117/Pavithra117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Third-year AIML student at Saveetha Engineering College.
+- Interested in Artificial Intelligence and Machine Learning.
+- Learning Python and new technologies.
+- Interested in developing practical projects.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- C Programming
+- Artificial Intelligence
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AI-Based Water Quality Monitoring
+- Sugarcane Disease Detection and Crop Health Assessment
+
+## Certification
+- NPTEL Introduction to IoT
+
+## Goals
+- Improve my programming skills.
+- Build practical AI/ML projects.
+- Become a skilled AI/ML professional.
